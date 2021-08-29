@@ -22,13 +22,13 @@ $termux-setup-storage
 
 $cd /sdcard
 
-$cp -r WINX $HOME
+$cp -r FILES $HOME
 
 $cd
 
-$cd WINX
+$cd FILE
 
-$bash install.sh
+$npm install / npm i
 
 $npm start
 
